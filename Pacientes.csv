@@ -1,0 +1,21 @@
+Nome,Sexo,Tipo_Internacao,Estado_Civil,Idade,Peso,Altura,Tempo_Internacao,Glicose
+Fernanda Santos,Masculino,Plana,Solteiro,57,95,1.99,21.21,111.95
+Fernanda Silva,Feminino,Particular,Casado,74,114,1.52,1.04,92.45
+Laura Silva,Masculino,Convênio,Divorciado,43,79,1.72,25.32,150.45
+Laura Silva,Feminino,Plana,Solteiro,49,97,1.53,17.42,129.5
+Laura Oliveira,Masculino,Particular,Casado,34,117,1.82,11.33,116.4
+Laura Santos,Feminino,Convênio,Divorciado,73,69,1.83,5.03,165.68
+Laura Pereira,Masculino,Plana,Solteiro,65,113,1.71,7.99,97.97
+Laura Oliveira,Feminino,Particular,Casado,36,72,1.88,3.65,179.68
+João Santos,Masculino,Convênio,Divorciado,22,65,1.96,2.18,125.08
+Fernanda Souza,Feminino,Plana,Solteiro,21,82,1.74,26.21,107.81
+Maria Oliveira,Masculino,Particular,Casado,26,116,1.95,21.3,164.37
+Fernanda Pereira,Feminino,Convênio,Divorciado,45,89,1.53,16.45,88.39
+Maria Oliveira,Masculino,Plana,Solteiro,74,73,1.8,21.36,118.14
+Ana Oliveira,Feminino,Particular,Casado,59,82,1.99,28.4,172.14
+Fernanda Souza,Masculino,Convênio,Divorciado,30,106,1.84,8.74,136.5
+Laura Souza,Feminino,Plana,Solteiro,73,64,1.85,5.34,145.47
+João Santos,Masculino,Particular,Casado,64,116,1.68,9.56,151.13
+Carlos Souza,Feminino,Convênio,Divorciado,55,73,1.66,8.61,155.46
+Pedro Oliveira,Masculino,Plana,Solteiro,64,98,1.56,17.43,124.59
+João Oliveira,Feminino,Particular,Casado,45,102,1.68,4.21,130.36
